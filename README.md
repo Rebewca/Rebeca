@@ -4,18 +4,13 @@ Rebeca
 <h1>
     <a href="https://elidianaandrade.github.io/">
      <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
-    <span>Elidiana Andrade</span>
+    <span>Rebeca Oliveira</span>
 </h1>
 
 <p align="justify"> Olá eu sou a Rebeca e futura Analista e desenvolvedora de sites.
 <br>
 <!--
 
-### Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/elidianaandrade/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/elicosmaker/)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@casalfullstack)
 
 ### GitHub Stats
 
@@ -29,6 +24,6 @@ Rebeca
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
  
-  <div align="right">Made with 💜 by <a href="https://github.com/elidianaandrade">EA</a>.</div>
+  <div align="right">Made with 💜 by <a href="https https://github.com/Rebewca">EA</a>.</div>
 
 </details>
